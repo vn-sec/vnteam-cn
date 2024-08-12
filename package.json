@@ -1,0 +1,15 @@
+{
+  "name": "vnteam-cn",
+  "scripts": {
+    "submodule": "git submodule update --init",
+    "submodule:update": "git submodule update --remote --merge --recursive",
+    "setup": "bash run.sh --setup",
+    "apply": "bash run.sh --apply",
+    "clean": "bash run.sh --clean",
+    "build": "bash run.sh build",
+    "start": "bash run.sh build",
+    "dev": "bash run.sh dev",
+    "check": "bash run.sh check",
+    "preview": "bash run.sh preview"
+  }
+}

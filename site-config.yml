@@ -1,0 +1,12 @@
+title: V&N Team
+
+navbar: ./config/navbar.yml
+
+page:
+  index: ./config/index.yml
+  achievements: ./config/achievements.md
+  members: ./config/members.yml
+  join: ./config/join.md
+
+footer:
+  copyright: Copyright (c) V&N Team

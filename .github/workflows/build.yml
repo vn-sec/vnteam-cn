@@ -1,0 +1,46 @@
+name: Build
+
+on:
+  push:
+    branches-ignore:
+      - actions/patch
+  pull_request:
+
+permissions:
+  contents: read
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+            submodules: recursive
+          # fetch-depth: 0
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: latest
+          run_install: false
+          # standalone: true
+      # - uses: oven-sh/setup-bun@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Build the website
+        run: |
+          pnpm run setup
+          pnpm run build
