@@ -7,7 +7,7 @@ For website repository, please visit [vn-website](https://github.com/vn-sec/vn-w
 ## Getting Started
 
 > [!CAUTION]
-> Package manager is `pnpm` is required.
+> Package manager `pnpm` is required.
 
 Use the following command to setup:
 
@@ -23,10 +23,9 @@ pnpm run dev
 
 If everything goes ok, you can commit your changes.
 
-Run the following command to restore the website submodule:
-
 > [!IMPORTANT]
-> Brfore committing, you need to run this command to restore the website submodule.
+> Before committing, you need to run this command to restore the website submodule.
+>
 > ```shell
 > pnpm run clean
 > ```
