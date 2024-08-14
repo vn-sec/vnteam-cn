@@ -7,29 +7,223 @@ content:
   #   tags: Web    # array or string
   #   description: # markdown supported
 
-  - name: Alice
-    # avatar:
-    tags: Misc
-    description: This is a description.
+  - name: unknown
+    avatar: https://unk-blog-image.oss-cn-shenzhen.aliyuncs.com/unknown.jpg
+    tags: Web
+    description: "真正的大师，永远都怀着一颗学徒的心"
+    link: https://unk.org.cn
 
   - name: Cnily03
     avatar: https://cdn.cnily.top/avatar.png?t=1
     tags: Web
-    description: "1"
-    link: https://vnteam.cn
+    description: "天在下雨，阳菜阳菜你在哪里"
+    link: https://cnily.me
 
-  - name: Bob
-    avatar: test.jpg
+  - name: Qanux
+    avatar: https://avatars.githubusercontent.com/u/126745796
+    tags: pwn
+    description: "论划水你们是比不过我的😇"
+    link: https://qanux.github.io
+
+  - name: 0xA1pha
+    avatar: https://neuqcsa.cn/static/images/ico/0xA1pha.png
     tags: Reverse
-    description: This is a very long description !!! Yes, very long...
-    link: https://vnteam.cn
+    description: "一个23级的菜菜逆向手"
+    link: ""
 
-  - name: Man!
-    # avatar:
-    tags: Re
-    description: Show a [link](https://vnteam.cn) here.
+  - name: C_LBY
+    avatar: https://c-lby.top/蒂.png
+    tags: Pwn
+    description: "我们联合，形成两面包夹芝士！"
+    link: https://c-lby.top
 
-  - name: NINA
-    # avatar:
+  - name: Chimedal
+    avatar: https://pica.zhimg.com/80/v2-b952a99e6919cf6f56ad4d493517fe3c_1440w.jpeg?source=d16d100b
+    tags: Web
+    description: "Just for fun!"
+    link: https://Chimedal.github.io
+  
+  - name: Aecous
+    avatar: https://aecous.github.io/images/me.png
+    tags: Web
+    description: "Prove yourself"
+    link: https://aecous.github.io/
+
+  - name: PangBai
+    avatar: https://thirdqq.qlogo.cn/g?b=oidb&k=vE3usuUH5ZeNhREOjiaq8tQ&s=640&t=1606030712
+    tags: Reverse
+    description: "Meow? meow meow"
+    link: https://pangbai.work
+
+  - name: CH13hh
+    avatar: https:////qm.openicu.net/avatar?spec=640&img_type=jpg&C=uRiR2l1gnwEeS63GTTmgZM0MCCKEaoEPmE60R7o11EF2V7HvhjqVcH6V2N3gKglS0r4WkSNc7jpZk&S=a5xAVmYQVBvyg8XegSRUsTCSx9oxgRjeAfg5SyxYClj6c&license=vn
+    tags: Pwn
+    description: "The best way to predict the future is to create it."
+    link: https://ch13hh.github.io/
+
+  - name: gets
+    avatar: https://c.img.dasctf.com/LightPicture/2024/08/ab868415fdfc7ff5.jpg
+    tags: Pwn
+    description: "好饿啊，早知道不学pwn了"
+    link: https://www.getspwn.xyz
+
+  - name: ph0ebus
+    avatar: https://c.img.dasctf.com/LightPicture/2024/08/ac126286f0762f42.jpg
+    tags: Web
+    description: "Study On Web Security && Penetration Testing && Java Security, no hack no fun!"
+    link: http://ph0ebus.cn/
+
+  - name: cyi
+    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=UrHFgH028bNNLQdb8zfOX8Mk4v6wwzDQYTHt38r5Low0xR7zBuNuk2wzKzxdxniAwWaBKLug8cVtI&S=lwkV4p_OjdjwBUWLcUTWfao0ieqkkLy3gJJl3T7B4qPL0&license=vn
     tags: Misc
-    description: Girls Band Cry !!!!!
+    description: "梧高凤必至_花香蝶自来"
+    link: https://home.cnblogs.com/u/xhzccy
+
+  - name: Infernity
+    avatar: http://q1.qlogo.cn/g?b=qq&nk=1366400792&s=100
+    tags: Web Misc
+    description: "爱玩恐怖游戏的web苦手"
+    link: https://infernity.top
+
+  - name: yixinBC
+    avatar: https://c.img.dasctf.com/LightPicture/2024/08/c6a64c00f2c066f8.jpg
+    tags: Misc
+    description: "超级无敌巨菜浑水摸鱼手"
+    link: https://blog.buyix.in
+
+
+  - name: 0xAkyOI
+    avatar: https://blog.akyuu.space/images/avatar.jpg
+    tags: Pwn
+    description: "C🤡NST unsigned int i = π;"
+    link: https://blog.akyuu.space/
+
+
+  - name: ATRI
+    avatar: https://c.img.dasctf.com/LightPicture/2024/08/ec2102768f9741c8.jpg
+    tags: Reverse
+    description: "一个摸鱼选手"
+    link: ""
+
+  - name: g01den
+    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=BwKjlG-Wl-5nNvJZhlhzNRfaCSouU8Ej5HVMBnNVPnOwD8mzfk0Qi6fYbpoO8oDPTZ1url6nldNvI&S=6C_uA_WkXf3iVqclk5ddfgcJaVV5udgcNBeg4SPhMiztI&license=vn
+    tags: Web
+    description: "一个喜欢玩儿音游的似宅"
+    link: https://g01den1.github.io/
+
+  - name: f1ngy3
+    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=uxfhJeIr225jAD9Z-r85T18poZvlFzIGoc_JCbmBEYVYnnYE4rZBvnKGw50xUGIe2WpznjKIVHu_I&S=iDEqNyjAR17FTegHhWh5iG4pXeAcEOhRbhICmd_KIuBvI&license=vn
+    tags: Reverse
+    description: "古希腊掌管睡觉の神"
+    link: ""
+
+  - name: 3cly
+    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=RNUIy_pAu4srJjhUeHm_0rQR0ULiYCHmBDfzYrFpIYgDk-MpQD7rIy4QU7GM9VuEa8AIIlT2sHmdg&S=Dj4VG2vRVoOVaCeSlzsRphNuTVVnwsa2YIGKiWImSHycQ&license=vn
+    tags: Reverse
+    description: "佛系逆向菜狗"
+    link: 3cly.github.io
+
+  - name: kw17
+    avatar: https://c.img.dasctf.com/LightPicture/2024/08/cb27e0ee564ba6ac.jpg
+    tags: Reverse
+    description: "其实我的本体，可能是一只会阿巴阿巴的卡皮巴拉"
+    link: ""
+
+
+  - name: korey0sh1
+    avatar: https://cdn.jsdelivr.net/gh/korey0sh1/clouding@master/data/b_e471dd030d1baa14d30360280e09e32a.jpg
+    tags: Pwn
+    description: "试图学会web的屑korey"
+    link: korey0sh1.fun
+
+  - name: LiBr
+    avatar: https://gravatar.loli.net/avatar/27c24bc48abf694631bb15836511d135?s=200&d=mp&r=g
+    tags: Misc
+    description: "Nothing here."
+    link: https://nvme0n1p.dev
+
+  - name: WAHAHA
+    avatar: https://gngtwhh.space/img/avatar.jpg
+    tags: Reverse
+    description: "一个爱折腾的蒟蒻"
+    link: https://gngtwhh.github.io/
+
+  - name: l4n
+    avatar: http://www.lancerorz.top/wp-content/uploads/2024/05/zhidai.jpg
+    tags: re
+    description: "半吊子re人"
+    link: lancerorz.top
+
+  - name: JJKK
+    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=qwKgJRJbgFijBe9x-fsW5frgnpw-vCMvZkS4MGio_uThsfI9wpApkGyDzaMkK3ZsvpyDMujUGudMs&S=7g_4zRPFmw96iz2lK49KPsNWQ7EapfYCVpesOMYa2RhPg&license=vn
+    tags: Reverse
+    description: "ctf re Players, determined to become a binary player."
+    link: ""
+
+  - name: 柚子
+    avatar: https://imgos.cn/2024/08/14/66bc37159585d.jpg
+    tags: Crypto 
+    description: "因为热爱，所以长远"
+    link: ""
+
+  - name: Kong
+    avatar: https://imgos.cn/2024/08/14/66bc365802c9a.jpg
+    tags: Misc 
+    description: "QW4gaW1wcmVzc2l2ZSBtYW4="
+    link: ""
+
+  - name: N1gh7ma12e
+    avatar: https://q.qlogo.cn/g?b=qq&nk=1051667762&s=640
+    tags: Crypto
+    description: "密码小菜鸡一枚QAQ"
+    link: http://n1gh7ma12e.cn/
+
+  - name: Z1d10t
+    avatar: https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20231013114415781.png
+    tags: Web
+    description: "喜欢Web安全与渗透"
+    link: https://z1d10t.fun/
+
+  - name: sekiro
+    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=ULqPGkqD_Ez7Ce76A9aJpw0HYENE8a819aIDC_CoqQmFmAs_ZgShfKdK5Fktq23VNh2DyiigbiD50&S=p3lUH95Kt-MV0_80BN5tytn1JXS8e-TpH8OVOax_RbBhA&license=vn
+    tags: Pwn
+    description: "know a little pwn?"
+    link: www.sekiro.love
+
+  - name: xianyuuuan
+    avatar: https://s2.loli.net/2024/08/14/I25gQWbAmNTEHce.png
+    tags: Re
+    description: "有意思的优质咸鱼"
+    link: xianyuuuan.space
+
+  - name: wd2711
+    avatar: https://avatars.githubusercontent.com/u/88755653?s=40&v=4
+    tags: Reverse
+    description: "爱玩的菜鸡"
+    link: wd-2711.tech
+
+  - name: Hur1k
+    avatar: https://hur1k.github.io/img/avatar.jpg
+    tags: Reverse
+    description: "404 Error"
+    link: https://hur1k.github.io/
+
+  - name: V3g3t4ble
+    avatar: https://blog-1258572842.cos.ap-nanjing.myqcloud.com/obsidian/202408141510512.jpeg
+    tags: Web
+    description: "去码头整点flag"
+    link: https://www.imsb114514.cn/
+
+  - name: xswlhhh
+    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=HGNJMZ6IYCkeFc5KQF66O7P97p2oHZrn1LCqEL1ndJrGMEcPKzzlCPuEMVyp-BkFK79LGqUdt0kkk&S=JC52SsrXajBULHbpQrQFqOhVOpLh2ffxXm40XX3ZpTxWY&license=vn
+    tags: Pwn
+    description: "分清大事和小事"
+    link: yuque.com/xswlhhh/ctf
+
+  - name: 鱿鱼
+    avatar: https://imgos.cn/2024/08/14/66bc65fcb8316.png
+    tags: web
+    description: "我是鱿鱼师傅，欢迎各位师傅和我扩列带带小弟"
+    link: https://www.cnblogs.com/dleyi
+
+
