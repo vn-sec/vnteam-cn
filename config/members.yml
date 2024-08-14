@@ -9,7 +9,7 @@ content:
 
   - name: unknown
     avatar: https://unk-blog-image.oss-cn-shenzhen.aliyuncs.com/unknown.jpg
-    tags: Web
+    tags: [Web,Leader]
     description: "真正的大师，永远都怀着一颗学徒的心"
     link: https://unk.org.cn
 
@@ -150,7 +150,7 @@ content:
 
   - name: l4n
     avatar: http://www.lancerorz.top/wp-content/uploads/2024/05/zhidai.jpg
-    tags: re
+    tags: Reverse
     description: "半吊子re人"
     link: lancerorz.top
 
@@ -192,7 +192,7 @@ content:
 
   - name: xianyuuuan
     avatar: https://s2.loli.net/2024/08/14/I25gQWbAmNTEHce.png
-    tags: Re
+    tags: Reverse
     description: "有意思的优质咸鱼"
     link: xianyuuuan.space
 
@@ -222,8 +222,13 @@ content:
 
   - name: 鱿鱼
     avatar: https://imgos.cn/2024/08/14/66bc65fcb8316.png
-    tags: web
+    tags: Web
     description: "我是鱿鱼师傅，欢迎各位师傅和我扩列带带小弟"
     link: https://www.cnblogs.com/dleyi
 
 
+  - name: M4nd3l3y3v
+    avatar: https://unk-blog-image.oss-cn-shenzhen.aliyuncs.com/abaed3e2a8d029d327e1cd2a12e73a8c.png
+    tags: [Misc,Web]
+    description: "Go and Hack,make my day!"
+    link: ""
