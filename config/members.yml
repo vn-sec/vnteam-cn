@@ -44,7 +44,7 @@ content:
     link: https://Chimedal.github.io
   
   - name: Aecous
-    avatar: https://aecous.github.io/images/me.png
+    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=FZhDE1pX0ocDZlsLTll9j3V1c2uErjFRQybX9CvlHWpn-bsvJDP6VTexsm_2nmabcpt0P-nvJ3LIE&S=o40gToz5rz1Az0ZR716n1RCYcwyn6KQPvDpM-D1Zcj72U&license=vn
     tags: Web
     description: "Prove yourself"
     link: https://aecous.github.io/
@@ -56,7 +56,7 @@ content:
     link: https://pangbai.work
 
   - name: CH13hh
-    avatar: https:////qm.openicu.net/avatar?spec=640&img_type=jpg&C=uRiR2l1gnwEeS63GTTmgZM0MCCKEaoEPmE60R7o11EF2V7HvhjqVcH6V2N3gKglS0r4WkSNc7jpZk&S=a5xAVmYQVBvyg8XegSRUsTCSx9oxgRjeAfg5SyxYClj6c&license=vn
+    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=UrHFgH028bNNLQdb8zfOX8Mk4v6wwzDQYTHt38r5Low0xR7zBuNuk2wzKzxdxniAwWaBKLug8cVtI&S=lwkV4p_OjdjwBUWLcUTWfao0ieqkkLy3gJJl3T7B4qPL0&license=vn
     tags: Pwn
     description: "The best way to predict the future is to create it."
     link: https://ch13hh.github.io/
@@ -74,7 +74,7 @@ content:
     link: http://ph0ebus.cn/
 
   - name: cyi
-    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=UrHFgH028bNNLQdb8zfOX8Mk4v6wwzDQYTHt38r5Low0xR7zBuNuk2wzKzxdxniAwWaBKLug8cVtI&S=lwkV4p_OjdjwBUWLcUTWfao0ieqkkLy3gJJl3T7B4qPL0&license=vn
+    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=uRiR2l1gnwEeS63GTTmgZM0MCCKEaoEPmE60R7o11EF2V7HvhjqVcH6V2N3gKglS0r4WkSNc7jpZk&S=a5xAVmYQVBvyg8XegSRUsTCSx9oxgRjeAfg5SyxYClj6c&license=vn
     tags: Misc
     description: "梧高凤必至_花香蝶自来"
     link: https://home.cnblogs.com/u/xhzccy
@@ -121,7 +121,7 @@ content:
     avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=RNUIy_pAu4srJjhUeHm_0rQR0ULiYCHmBDfzYrFpIYgDk-MpQD7rIy4QU7GM9VuEa8AIIlT2sHmdg&S=Dj4VG2vRVoOVaCeSlzsRphNuTVVnwsa2YIGKiWImSHycQ&license=vn
     tags: Reverse
     description: "佛系逆向菜狗"
-    link: 3cly.github.io
+    link: https://3cly.github.io
 
   - name: kw17
     avatar: https://c.img.dasctf.com/LightPicture/2024/08/cb27e0ee564ba6ac.jpg
@@ -129,12 +129,11 @@ content:
     description: "其实我的本体，可能是一只会阿巴阿巴的卡皮巴拉"
     link: ""
 
-
   - name: korey0sh1
     avatar: https://cdn.jsdelivr.net/gh/korey0sh1/clouding@master/data/b_e471dd030d1baa14d30360280e09e32a.jpg
     tags: Pwn
     description: "试图学会web的屑korey"
-    link: korey0sh1.fun
+    link: https://korey0sh1.fun
 
   - name: LiBr
     avatar: https://gravatar.loli.net/avatar/27c24bc48abf694631bb15836511d135?s=200&d=mp&r=g
@@ -152,7 +151,7 @@ content:
     avatar: http://www.lancerorz.top/wp-content/uploads/2024/05/zhidai.jpg
     tags: Reverse
     description: "半吊子re人"
-    link: lancerorz.top
+    link: https://lancerorz.top
 
   - name: JJKK
     avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=qwKgJRJbgFijBe9x-fsW5frgnpw-vCMvZkS4MGio_uThsfI9wpApkGyDzaMkK3ZsvpyDMujUGudMs&S=7g_4zRPFmw96iz2lK49KPsNWQ7EapfYCVpesOMYa2RhPg&license=vn
@@ -188,19 +187,19 @@ content:
     avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=ULqPGkqD_Ez7Ce76A9aJpw0HYENE8a819aIDC_CoqQmFmAs_ZgShfKdK5Fktq23VNh2DyiigbiD50&S=p3lUH95Kt-MV0_80BN5tytn1JXS8e-TpH8OVOax_RbBhA&license=vn
     tags: Pwn
     description: "know a little pwn?"
-    link: www.sekiro.love
+    link: https://www.sekiro.love
 
   - name: xianyuuuan
     avatar: https://s2.loli.net/2024/08/14/I25gQWbAmNTEHce.png
     tags: Reverse
     description: "有意思的优质咸鱼"
-    link: xianyuuuan.space
+    link: https://xianyuuuan.space
 
   - name: wd2711
     avatar: https://avatars.githubusercontent.com/u/88755653?s=40&v=4
     tags: Reverse
     description: "爱玩的菜鸡"
-    link: wd-2711.tech
+    link: https://wd-2711.tech
 
   - name: Hur1k
     avatar: https://hur1k.github.io/img/avatar.jpg
@@ -218,7 +217,7 @@ content:
     avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=HGNJMZ6IYCkeFc5KQF66O7P97p2oHZrn1LCqEL1ndJrGMEcPKzzlCPuEMVyp-BkFK79LGqUdt0kkk&S=JC52SsrXajBULHbpQrQFqOhVOpLh2ffxXm40XX3ZpTxWY&license=vn
     tags: Pwn
     description: "分清大事和小事"
-    link: yuque.com/xswlhhh/ctf
+    link: https://yuque.com/xswlhhh/ctf
 
   - name: 鱿鱼
     avatar: https://imgos.cn/2024/08/14/66bc65fcb8316.png
