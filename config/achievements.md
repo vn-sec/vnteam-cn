@@ -12,19 +12,19 @@ Default link open target is `_blank`. Add `~` before the link to open it in the 
 
 ## 2024
 
-XCTF分站赛 DubheCTF 2024 8名
+XCTF分站赛 DubheCTF 2024 第8名
 
-XCTF分站赛 D^3CTF2024 15名
+XCTF分站赛 D^3CTF2024 第15名
 
-XCTF分站赛 RCTF 2024 12名
+XCTF分站赛 RCTF 2024 第12名
 
 ## 2023
 
-XCTF分站赛 SCTF 2023 6名
+XCTF分站赛 SCTF 2023 第6名
 
-XCTF分站赛 *CTF 2023 17名
+XCTF分站赛 *CTF 2023 第17名
 
-XCTF分站赛 ACTF 2023 19名
+XCTF分站赛 ACTF 2023 第19名
 
 ## 2021
 
