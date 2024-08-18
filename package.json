@@ -7,8 +7,8 @@
     "apply": "bash run.sh --apply",
     "clean": "bash run.sh --clean",
     "build": "bash run.sh build",
-    "start": "bash run.sh build",
-    "dev": "bash run.sh dev",
+    "start": "bash run.sh start",
+    "dev": "bash run.sh --watch dev",
     "check": "bash run.sh check",
     "preview": "bash run.sh preview"
   }

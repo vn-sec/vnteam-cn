@@ -12,19 +12,19 @@ Default link open target is `_blank`. Add `~` before the link to open it in the 
 
 ## 2024
 
-XCTF分站赛 DubheCTF 2024 第8名
+XCTF 分站赛 DubheCTF 2024 第8名
 
-XCTF分站赛 D^3CTF2024 第15名
+XCTF 分站赛 D³CTF2024 第15名
 
-XCTF分站赛 RCTF 2024 第12名
+XCTF 分站赛 RCTF 2024 第12名
 
 ## 2023
 
-XCTF分站赛 SCTF 2023 第6名
+XCTF 分站赛 SCTF 2023 第6名
 
-XCTF分站赛 *CTF 2023 第17名
+XCTF 分站赛 *CTF 2023 第17名
 
-XCTF分站赛 ACTF 2023 第19名
+XCTF 分站赛 ACTF 2023 第19名
 
 ## 2021
 
@@ -48,13 +48,13 @@ XCTF分站赛 ACTF 2023 第19名
 
 护网 :honor-r2:第二名
 
-西湖论剑2020杭州网络安全技能大赛 :honor-r2:第二名
+西湖论剑 2020 杭州网络安全技能大赛 :honor-r2:第二名
 
 De1CT 第四名
 
 GACTF 第四名
 
-XCTF高校战「疫」 第五名
+XCTF 高校战「疫」 第五名
 
 第一届祥云杯 第七名
 
