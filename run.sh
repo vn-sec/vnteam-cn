@@ -8,6 +8,7 @@ source ".github/basic-env.sh"
 # env: NPM, WEBSITE_DIR (absolute path)
 
 opt_setup=false
+opt_watch=false
 opt_apply=true
 opt_only_apply=false
 opt_clean=false
@@ -62,6 +63,9 @@ while [ "$#" -gt 0 ]; do
       opt_only_apply=true
       ARGS=()
       break ;;
+
+    --watch)
+      opt_watch=true ;;
 
     --clean)
       opt_clean=true ;;
@@ -186,6 +190,16 @@ if [ "$opt_setup" == true ]; then
 elif [ "$opt_apply" == true ]; then
   # --apply (only when `--setup` is not set, for `setup` already runs `apply`)
   apply
+fi
+
+# --watch
+if [ "$opt_watch" == true ]; then
+  print && print "Watching for file changes"
+  add_print_prefix
+
+  cd "$CUR_DIR" && node .github/watch.mjs "$WEBSITE_DIR" &
+
+  pop_print_prefix
 fi
 
 # website command

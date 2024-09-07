@@ -3,4 +3,9 @@ description: An Union CTF Team From China
 
 about:
   title: About Us
-  content: "V&N is a union CTF team from China, child of W&M.\nWe are a group of cybersecurity enthusiasts who love to play CTF games and most of us come from universities.\nOur goal is to promote sharing of cybersecurity knowledge and the development of the CTF games community."
+  content: |
+    V&N is a union CTF team from China, child of W&M.
+    We are a group of cybersecurity enthusiasts who love to play CTF games and most of us come from universities.
+    Our goal is to promote sharing of cybersecurity knowledge and the development of the CTF games community.
+
+    V&N 作为 W&M 的子队，由一群热爱网络安全的大学生构成，参与 CTF 竞赛等网络安全活动，致力于安全知识分享和 CTF 社区发展。

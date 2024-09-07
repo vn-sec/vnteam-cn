@@ -4,6 +4,7 @@ on:
   push:
     branches-ignore:
       - actions/patch
+      - pr/*
   pull_request:
 
 permissions:

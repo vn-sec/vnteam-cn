@@ -7,14 +7,17 @@ content:
   #   tags: Web    # array or string
   #   description: # markdown supported
   #   link:        # link to personal website or blog
+  #   link:        # link to personal website or blog
 
   - name: unknown
     avatar: https://unk-blog-image.oss-cn-shenzhen.aliyuncs.com/unknown.jpg
+    tags: [ Leader, Web ]
     tags: [ Leader, Web ]
     description: "真正的大师，永远都怀着一颗学徒的心"
     link: https://unk.org.cn
 
   - name: Cnily03
+    avatar: https://img.cnily.top/avatar.png@webp
     avatar: https://img.cnily.top/avatar.png@webp
     tags: Web
     description: "天在下雨，阳菜阳菜你在哪里"
@@ -23,12 +26,15 @@ content:
   - name: Qanux
     avatar: https://avatars.githubusercontent.com/u/126745796
     tags: Pwn
+    tags: Pwn
     description: "论划水你们是比不过我的😇"
     link: https://qanux.github.io
 
   - name: 0xA1pha
     avatar: https://neuqcsa.cn/static/images/ico/0xA1pha.png
     tags: Reverse
+    description: "一个 23 级的菜菜逆向手"
+    # link:
     description: "一个 23 级的菜菜逆向手"
     # link:
 
@@ -43,6 +49,7 @@ content:
     tags: Web
     description: "Just for fun!"
     link: https://Chimedal.github.io
+
 
   - name: Aecous
     avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=FZhDE1pX0ocDZlsLTll9j3V1c2uErjFRQybX9CvlHWpn-bsvJDP6VTexsm_2nmabcpt0P-nvJ3LIE&S=o40gToz5rz1Az0ZR716n1RCYcwyn6KQPvDpM-D1Zcj72U&license=vn
@@ -65,7 +72,7 @@ content:
   - name: gets
     avatar: https://c.img.dasctf.com/LightPicture/2024/08/ab868415fdfc7ff5.jpg
     tags: Pwn
-    description: "好饿啊，早知道不学 pwn 了"
+    description: "好饿啊，早知道不学  pwn  了"
     link: https://www.getspwn.xyz
 
   - name: ph0ebus
@@ -82,6 +89,8 @@ content:
 
   - name: Infernity
     avatar: http://q1.qlogo.cn/g?b=qq&nk=1366400792&s=100
+    tags: [ Misc, Web ]
+    description: "爱玩恐怖游戏的 Web 苦手"
     tags: [ Misc, Web ]
     description: "爱玩恐怖游戏的 Web 苦手"
     link: https://infernity.top
@@ -105,6 +114,7 @@ content:
     tags: Reverse
     description: "一个摸鱼选手"
     # link:
+    # link:
 
   - name: g01den
     avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=BwKjlG-Wl-5nNvJZhlhzNRfaCSouU8Ej5HVMBnNVPnOwD8mzfk0Qi6fYbpoO8oDPTZ1url6nldNvI&S=6C_uA_WkXf3iVqclk5ddfgcJaVV5udgcNBeg4SPhMiztI&license=vn
@@ -116,6 +126,7 @@ content:
     avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=uxfhJeIr225jAD9Z-r85T18poZvlFzIGoc_JCbmBEYVYnnYE4rZBvnKGw50xUGIe2WpznjKIVHu_I&S=iDEqNyjAR17FTegHhWh5iG4pXeAcEOhRbhICmd_KIuBvI&license=vn
     tags: Reverse
     description: "古希腊掌管睡觉の神"
+    # link:
     # link:
 
   - name: 3cly
@@ -129,10 +140,12 @@ content:
     tags: Reverse
     description: "其实我的本体，可能是一只会阿巴阿巴的卡皮巴拉"
     # link:
+    # link:
 
   - name: korey0sh1
     avatar: https://cdn.jsdelivr.net/gh/korey0sh1/clouding@master/data/b_e471dd030d1baa14d30360280e09e32a.jpg
     tags: Pwn
+    description: "试图学会 Web 的屑 Korey"
     description: "试图学会 Web 的屑 Korey"
     link: https://korey0sh1.fun
 
@@ -152,11 +165,14 @@ content:
     avatar: http://www.lancerorz.top/wp-content/uploads/2024/05/zhidai.jpg
     tags: Reverse
     description: "半吊子 RE 人"
+    description: "半吊子 RE 人"
     link: https://lancerorz.top
 
   - name: JJKK
     avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=qwKgJRJbgFijBe9x-fsW5frgnpw-vCMvZkS4MGio_uThsfI9wpApkGyDzaMkK3ZsvpyDMujUGudMs&S=7g_4zRPFmw96iz2lK49KPsNWQ7EapfYCVpesOMYa2RhPg&license=vn
     tags: Reverse
+    description: "CTF RE players, determined to become a binary player."
+    # link:
     description: "CTF RE players, determined to become a binary player."
     # link:
 
@@ -165,16 +181,19 @@ content:
     tags: Crypto
     description: "因为热爱，所以长远"
     # link:
+    # link:
 
   - name: Kong
     avatar: https://unk-blog-image.oss-cn-shenzhen.aliyuncs.com/kong.jpg
     tags: Misc
     description: "QW4gaW1wcmVzc2l2ZSBtYW4="
     # link:
+    # link:
 
   - name: N1gh7ma12e
     avatar: https://q.qlogo.cn/g?b=qq&nk=1051667762&s=640
     tags: Crypto
+    description: "密码小菜鸡一枚 QAQ"
     description: "密码小菜鸡一枚 QAQ"
     link: http://n1gh7ma12e.cn/
 
@@ -182,11 +201,13 @@ content:
     avatar: https://boogipop-1314143616.cos.ap-beijing.myqcloud.com/image-20231013114415781.png
     tags: Web
     description: "喜欢 Web 安全与渗透"
+    description: "喜欢 Web 安全与渗透"
     link: https://z1d10t.fun/
 
   - name: sekiro
     avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=ULqPGkqD_Ez7Ce76A9aJpw0HYENE8a819aIDC_CoqQmFmAs_ZgShfKdK5Fktq23VNh2DyiigbiD50&S=p3lUH95Kt-MV0_80BN5tytn1JXS8e-TpH8OVOax_RbBhA&license=vn
     tags: Pwn
+    description: "Know a little pwn?"
     description: "Know a little pwn?"
     link: https://www.sekiro.love
 
@@ -212,6 +233,7 @@ content:
     avatar: https://blog-1258572842.cos.ap-nanjing.myqcloud.com/obsidian/202408141510512.jpeg
     tags: Web
     description: "去码头整点 flag"
+    description: "去码头整点 flag"
     link: https://www.imsb114514.cn/
 
   - name: xswlhhh
@@ -229,6 +251,7 @@ content:
 
   - name: M4nd3l3y3v
     avatar: https://unk-blog-image.oss-cn-shenzhen.aliyuncs.com/abaed3e2a8d029d327e1cd2a12e73a8c.png
+    tags: [ Misc, Web ]
     tags: [ Misc, Web ]
     description: "Go and Hack,make my day!"
     # link:
