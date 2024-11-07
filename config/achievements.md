@@ -12,6 +12,8 @@ Default link open target is `_blank`. Add `~` before the link to open it in the 
 
 ## 2024
 
+ByteCTF 决赛 第4名
+
 XCTF 分站赛 DubheCTF 2024 第8名
 
 XCTF 分站赛 D³CTF2024 第15名
