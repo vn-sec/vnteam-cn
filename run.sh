@@ -1,5 +1,6 @@
 #!/binbash
 # The program should be run in the root directory of the project
+set -e
 
 NPM="pnpm"
 source ".github/basic-env.sh"

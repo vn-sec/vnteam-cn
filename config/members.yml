@@ -34,7 +34,6 @@ content:
 
   - name: C_LBY
     avatar: https://blog-1258572842.cos.ap-nanjing.myqcloud.com/obsidian/202408142342917.png
-    tags: Pwn
     description: "我们联合，形成两面包夹芝士！"
     link: https://c-lby.top
 
@@ -43,7 +42,6 @@ content:
     tags: Web
     description: "Just for fun!"
     link: https://Chimedal.github.io
-
 
   - name: Aecous
     avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=FZhDE1pX0ocDZlsLTll9j3V1c2uErjFRQybX9CvlHWpn-bsvJDP6VTexsm_2nmabcpt0P-nvJ3LIE&S=o40gToz5rz1Az0ZR716n1RCYcwyn6KQPvDpM-D1Zcj72U&license=vn
@@ -93,13 +91,11 @@ content:
     description: "超级无敌巨菜浑水摸鱼手"
     link: https://blog.buyix.in
 
-
   - name: 0xAkyOI
     avatar: https://blog.akyuu.space/images/avatar.jpg
     tags: Pwn
     description: "C🤡NST unsigned int i = π;"
     link: https://blog.akyuu.space/
-
 
   - name: ATRI
     avatar: https://c.img.dasctf.com/LightPicture/2024/08/ec2102768f9741c8.jpg
@@ -233,7 +229,7 @@ content:
     tags: [ Misc, Web ]
     description: "Go and Hack,make my day!"
     # link:
-  
+
   - name: Mash1r0
     avatar: https://bu.dusays.com/2024/07/08/668b937ccb984.jpg
     tags: Web
