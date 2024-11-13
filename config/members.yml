@@ -34,6 +34,7 @@ content:
 
   - name: C_LBY
     avatar: https://blog-1258572842.cos.ap-nanjing.myqcloud.com/obsidian/202408142342917.png
+    tags: Pwn
     description: "我们联合，形成两面包夹芝士！"
     link: https://c-lby.top
 
@@ -236,19 +237,14 @@ content:
     description: "why we need that?"
     link: https://asal1n.github.io/
 
-
   - name: C3ngH
     avatar: https://c3ngh-blog.oss-cn-hangzhou.aliyuncs.com/img/C3ngH.jpg
     tags: Misc
-    link: https://c3ngh.top/
     description: "广告位招租"
-
+    link: https://c3ngh.top/
 
   - name: Shu_sHu
     avatar: https://avatars.githubusercontent.com/u/152017172?s=400&u=b101466ffe9441dc6bea6802f394c3bcfb75dcb0&v=4
     tag: Web
     description: "This power… I cannot control."
     link: https://mysx.github.io/
-
-
-
