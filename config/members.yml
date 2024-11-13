@@ -65,7 +65,7 @@ content:
   - name: gets
     avatar: https://c.img.dasctf.com/LightPicture/2024/08/ab868415fdfc7ff5.jpg
     tags: Pwn
-    description: "好饿啊，早知道不学  pwn  了"
+    description: "好饿啊，早知道不学 pwn 了"
     link: https://www.getspwn.xyz
 
   - name: ph0ebus
@@ -131,7 +131,7 @@ content:
   - name: korey0sh1
     avatar: https://cdn.jsdelivr.net/gh/korey0sh1/clouding@master/data/b_e471dd030d1baa14d30360280e09e32a.jpg
     tags: Pwn
-    description: "试图学会 Web 的屑 Korey"
+    description: "试图学会 Web 的屑 korey"
     link: https://korey0sh1.fun
 
   - name: LiBr
