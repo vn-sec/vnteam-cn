@@ -5,6 +5,10 @@ content:
   - id: home
     text: 主页
     link: /
+  - id: vnctf
+    text: VNCTF
+    link: https://ctf.vnteam.cn
+    target: _blank
   - id: achievements
     text: 成就
     link: /achievements
