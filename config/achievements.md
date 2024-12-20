@@ -14,6 +14,8 @@ Default link open target is `_blank`. Add `~` before the link to open it in the 
 
 第八届强网杯青少年专项赛 :honor-r1:冠军
 
+第四届鹏城杯决赛第 4 名
+
 ByteCTF 2024 决赛 第 4 名
 
 XCTF 分站赛 DubheCTF 2024 第 8 名
