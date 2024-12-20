@@ -23,7 +23,7 @@ content:
   - name: Qanux
     avatar: https://avatars.githubusercontent.com/u/126745796
     tags: Pwn
-    description: "论划水你们是比不过我的😇"
+    description: "勇往直前是我唯一的退路👊"
     link: https://qanux.github.io
 
   - name: 0xA1pha
@@ -81,7 +81,7 @@ content:
     link: https://www.cnblogs.com/xhzccy
 
   - name: Infernity
-    avatar: http://q1.qlogo.cn/g?b=qq&nk=1366400792&s=100
+    avatar: http://q1.qlogo.cn/g?b=qq&nk=1366400792&s=640
     tags: [ Misc, Web ]
     description: "爱玩恐怖游戏的 Web 苦手"
     link: https://infernity.top
@@ -248,3 +248,9 @@ content:
     tag: Web
     description: "This power… I cannot control."
     link: https://mysx.github.io/
+
+  - name: Inkey
+    avatar: https://avatars.githubusercontent.com/u/39005478?s=800
+    tag: Pwn
+    description: "可以打一辈子CTF吗"
+    link: https://inkeyp.github.io/
