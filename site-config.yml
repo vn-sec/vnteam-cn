@@ -9,6 +9,7 @@ page:
   join: ./config/join.md
 
 footer:
-  copyright: Copyright (c) [V&N Team](https://github.com/vn-sec)
-  icp: '[蜀ICP备2024116417号-1](http://beian.miit.gov.cn/)'
-  extra: CDN Hosted by [LightXi](https://www.lightxi.com/)
+  -
+    - Copyright (c) [V&N Team](https://github.com/vn-sec)
+    - CDN Hosted on [LightXi](https://www.lightxi.com/)
+  - '[蜀ICP备2024116417号-1](http://beian.miit.gov.cn/)'
