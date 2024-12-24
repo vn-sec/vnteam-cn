@@ -24,7 +24,7 @@ content:
     avatar: https://avatars.githubusercontent.com/u/126745796
     tags: Pwn
     description: "勇往直前是我唯一的退路👊"
-    link: https://qanux.github.io
+    link: https://9anux.org
 
   - name: 0xA1pha
     avatar: https://neuqcsa.cn/static/images/ico/0xA1pha.png
@@ -245,12 +245,17 @@ content:
 
   - name: Shu_sHu
     avatar: https://avatars.githubusercontent.com/u/152017172?s=400&u=b101466ffe9441dc6bea6802f394c3bcfb75dcb0&v=4
-    tag: Web
+    tags: Web
     description: "This power… I cannot control."
     link: https://mysx.github.io/
 
   - name: Inkey
     avatar: https://avatars.githubusercontent.com/u/39005478?s=800
-    tag: Pwn
+    tags: Pwn
     description: "可以打一辈子CTF吗"
     link: https://inkeyp.github.io/
+
+  - name: ZianTT
+    avatar: https://cravatar.cn/avatar/413738b4fd10f2afa4c57de26d6bec78
+    tags: Web
+    description: "Trailblaze Tomorrow"
