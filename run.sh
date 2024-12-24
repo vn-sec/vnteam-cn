@@ -1,4 +1,4 @@
-#!/binbash
+#!/bin/bash
 # The program should be run in the root directory of the project
 set -e
 
