@@ -30,7 +30,6 @@ content:
     avatar: https://neuqcsa.cn/static/images/ico/0xA1pha.png
     tags: Reverse
     description: "一个 23 级的菜菜逆向手"
-    # link:
 
   - name: C_LBY
     avatar: https://blog-1258572842.cos.ap-nanjing.myqcloud.com/obsidian/202408142342917.png
@@ -45,7 +44,7 @@ content:
     link: https://Chimedal.github.io
 
   - name: Aecous
-    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=FZhDE1pX0ocDZlsLTll9j3V1c2uErjFRQybX9CvlHWpn-bsvJDP6VTexsm_2nmabcpt0P-nvJ3LIE&S=o40gToz5rz1Az0ZR716n1RCYcwyn6KQPvDpM-D1Zcj72U&license=vn
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=2894248907&s=160
     tags: Web
     description: "Prove yourself"
     link: https://aecous.github.io/
@@ -57,7 +56,7 @@ content:
     link: https://pangbai.work
 
   - name: CH13hh
-    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=UrHFgH028bNNLQdb8zfOX8Mk4v6wwzDQYTHt38r5Low0xR7zBuNuk2wzKzxdxniAwWaBKLug8cVtI&S=lwkV4p_OjdjwBUWLcUTWfao0ieqkkLy3gJJl3T7B4qPL0&license=vn
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=2804894416&s=160
     tags: Pwn
     description: "The best way to predict the future is to create it."
     link: https://ch13hh.github.io/
@@ -75,13 +74,13 @@ content:
     link: http://ph0ebus.cn/
 
   - name: cyi
-    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=uRiR2l1gnwEeS63GTTmgZM0MCCKEaoEPmE60R7o11EF2V7HvhjqVcH6V2N3gKglS0r4WkSNc7jpZk&S=a5xAVmYQVBvyg8XegSRUsTCSx9oxgRjeAfg5SyxYClj6c&license=vn
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=1873287169&s=160
     tags: Misc
     description: "梧高凤必至_花香蝶自来"
     link: https://www.cnblogs.com/xhzccy
 
   - name: Infernity
-    avatar: http://q1.qlogo.cn/g?b=qq&nk=1366400792&s=640
+    avatar: http://q1.qlogo.cn/g?b=qq&nk=1366400792&s=160
     tags: [ Misc, Web ]
     description: "爱玩恐怖游戏的 Web 苦手"
     link: https://infernity.top
@@ -105,19 +104,19 @@ content:
     # link:
 
   - name: g01den
-    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=BwKjlG-Wl-5nNvJZhlhzNRfaCSouU8Ej5HVMBnNVPnOwD8mzfk0Qi6fYbpoO8oDPTZ1url6nldNvI&S=6C_uA_WkXf3iVqclk5ddfgcJaVV5udgcNBeg4SPhMiztI&license=vn
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=2082045221&s=160
     tags: Web
     description: "一个喜欢玩儿音游的似宅"
     link: https://g01den1.github.io/
 
   - name: f1ngy3
-    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=uxfhJeIr225jAD9Z-r85T18poZvlFzIGoc_JCbmBEYVYnnYE4rZBvnKGw50xUGIe2WpznjKIVHu_I&S=iDEqNyjAR17FTegHhWh5iG4pXeAcEOhRbhICmd_KIuBvI&license=vn
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=2993669760&s=160
     tags: Reverse
     description: "古希腊掌管睡觉の神"
     # link:
 
   - name: 3cly
-    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=RNUIy_pAu4srJjhUeHm_0rQR0ULiYCHmBDfzYrFpIYgDk-MpQD7rIy4QU7GM9VuEa8AIIlT2sHmdg&S=Dj4VG2vRVoOVaCeSlzsRphNuTVVnwsa2YIGKiWImSHycQ&license=vn
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=987623364&s=160
     tags: Reverse
     description: "佛系逆向菜狗"
     link: https://3cly.github.io
@@ -153,7 +152,7 @@ content:
     link: https://lancerorz.top
 
   - name: JJKK
-    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=qwKgJRJbgFijBe9x-fsW5frgnpw-vCMvZkS4MGio_uThsfI9wpApkGyDzaMkK3ZsvpyDMujUGudMs&S=7g_4zRPFmw96iz2lK49KPsNWQ7EapfYCVpesOMYa2RhPg&license=vn
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=2311834720&s=160
     tags: Reverse
     description: "CTF RE players, determined to become a binary player."
     # link:
@@ -165,7 +164,7 @@ content:
     # link:
 
   - name: N1gh7ma12e
-    avatar: https://q.qlogo.cn/g?b=qq&nk=1051667762&s=640
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=1051667762&s=160
     tags: Crypto
     description: "密码小菜鸡一枚 QAQ"
     link: http://n1gh7ma12e.cn/
@@ -177,7 +176,7 @@ content:
     link: https://z1d10t.fun/
 
   - name: sekiro
-    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=ULqPGkqD_Ez7Ce76A9aJpw0HYENE8a819aIDC_CoqQmFmAs_ZgShfKdK5Fktq23VNh2DyiigbiD50&S=p3lUH95Kt-MV0_80BN5tytn1JXS8e-TpH8OVOax_RbBhA&license=vn
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=3331308771&s=160
     tags: Pwn
     description: "Know a little pwn?"
     link: https://www.sekiro.love
@@ -207,7 +206,7 @@ content:
     link: https://www.imsb114514.cn/
 
   - name: xswlhhh
-    avatar: https://qm.openicu.net/avatar?spec=640&img_type=jpg&C=HGNJMZ6IYCkeFc5KQF66O7P97p2oHZrn1LCqEL1ndJrGMEcPKzzlCPuEMVyp-BkFK79LGqUdt0kkk&S=JC52SsrXajBULHbpQrQFqOhVOpLh2ffxXm40XX3ZpTxWY&license=vn
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=2991796382&s=160
     tags: Pwn
     description: "分清大事和小事"
     link: https://yuque.com/xswlhhh/ctf
@@ -256,7 +255,7 @@ content:
     link: https://inkeyp.github.io/
 
   - name: ZianTT
-    avatar: https://cravatar.cn/avatar/413738b4fd10f2afa4c57de26d6bec78
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=2508164094&s=160
     tags: Web
     description: "Trailblaze Tomorrow"
 
