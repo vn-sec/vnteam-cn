@@ -10,11 +10,13 @@ Default link open target is `_blank`. Add `~` before the link to open it in the 
 
 # Achievements
 
-## 2024
+## 2025
 
 阿里云CTF 2025 第 13 名
 
 XCTF 分站赛 SUCTF 2025 第 17 名
+
+## 2024
 
 XCTF 分站赛 SCTF 2024 第 17 名
 
