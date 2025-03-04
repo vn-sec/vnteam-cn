@@ -14,12 +14,6 @@ content:
     description: "真正的大师，永远都怀着一颗学徒的心"
     link: https://unk.org.cn
 
-  - name: Cnily03
-    avatar: https://img.cnily.top/avatar.png@webp
-    tags: Web
-    description: "天在下雨，阳菜阳菜你在哪里"
-    link: https://cnily.me
-
   - name: Qanux
     avatar: https://avatars.githubusercontent.com/u/126745796
     tags: Pwn
