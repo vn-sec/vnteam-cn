@@ -12,6 +12,12 @@ Default link open target is `_blank`. Add `~` before the link to open it in the 
 
 ## 2024
 
+阿里云CTF 2025 第 13 名
+
+XCTF 分站赛 SUCTF 2025 第 17 名
+
+XCTF 分站赛 SCTF 2024 第 17 名
+
 第八届强网杯青少年专项赛 :honor-r1:冠军
 
 第四届鹏城杯决赛第 4 名
