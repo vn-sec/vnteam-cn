@@ -23,18 +23,18 @@ The event is organized by the V&N team, focusing on moderate difficulty and prog
 - 5 Astrageldon
 - 6 hentai
 - 7 baozongwi
-- 8 LamentXU
+- 8 LamentXU :vn:
 - 9 carbofish
 - 10 WuYan
 
 ### Misc
 
 - :honor-r1: Aqua Cat
-- :honor-r2: 温婳霂
+- :honor-r2: 温婳霂 :vn:
 - :honor-r3: LilRan
 - 4 zeroc
 - 5 BR
-- 6 PuH4ck3rX
+- 6 PuH4ck3rX :vn:
 - 7 foxdog
 
 ### Web
@@ -48,7 +48,7 @@ The event is organized by the V&N team, focusing on moderate difficulty and prog
 - 7 flykai
 - 8 LSE
 - 9 asdf
-- 10 LamentXU
+- 10 LamentXU :vn:
 
 ### Crypto
 
@@ -81,5 +81,5 @@ The event is organized by the V&N team, focusing on moderate difficulty and prog
 - :honor-r1: fu11p7r
 - :honor-r2: upsw1ng
 - :honor-r3: carbofish
-- 4 Je2em1ah
-- 5 Britney
+- 4 Je2em1ah :vn:
+- 5 Britney :vn:
