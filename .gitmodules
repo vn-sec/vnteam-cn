@@ -1,4 +1,4 @@
 [submodule "website"]
 	path = website
-	url = https://github.com/vn-sec/vn-website
+	url = https://github.com/ZianTT/vnteam-website
 	branch = master

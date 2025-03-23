@@ -7,8 +7,7 @@ content:
     link: /
   - id: vnctf
     text: VNCTF
-    link: https://ctf.vnteam.cn
-    target: _blank
+    link: /vnctf
   - id: achievements
     text: 成就
     link: /achievements
