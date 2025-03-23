@@ -1,14 +1,14 @@
 # VNCTF 2025
 
-## Event Details
+## Event Details 赛事信息
 
-- **Date:** 2025-02-08 10:00 - 2025-02-09 10:00
-- **Participants:** Nearly 1000 participants
-- **Type:** Individual 个人赛
-- **Organizer:** V&N Team
-- **WriteUp Download:** [By OneDrive](https://bitf1a5h-my.sharepoint.com/:b:/g/personal/ziantt_ziantt_top/EaoZk2ULCg5EuxeKjIfA2IkBSVFlAzdnWqgBbEnJMAWZpw?e=MgKxJa)
+- **Date 比赛日期:** 2025-02-08 10:00 - 2025-02-09 10:00
+- **Participants 参与人数:** Nearly 1000 participants
+- **Type 类型:** Individual 个人赛
+- **Organizer 主办方:** V&N Team
+- **WriteUp Download 下载WriteUp:** [By OneDrive](https://bitf1a5h-my.sharepoint.com/:b:/g/personal/ziantt_ziantt_top/EaoZk2ULCg5EuxeKjIfA2IkBSVFlAzdnWqgBbEnJMAWZpw?e=MgKxJa)
 
-## Description
+## Description 赛事简介
 
 The event is organized by the V&N team, focusing on moderate difficulty and progressive challenges. The questions are based on interesting and fun knowledge points learned by the team members, aiming to let everyone learn and enjoy the process of solving problems.
 
