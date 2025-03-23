@@ -5,6 +5,8 @@
 - **Date:** 2025-02-08 10:00 - 2025-02-09 10:00
 - **Participants:** Nearly 1000 participants
 - **Type:** Individual 个人赛
+- **Organizer:** V&N Team
+- **WriteUp Download:** [By OneDrive](https://bitf1a5h-my.sharepoint.com/:b:/g/personal/ziantt_ziantt_top/EaoZk2ULCg5EuxeKjIfA2IkBSVFlAzdnWqgBbEnJMAWZpw?e=MgKxJa)
 
 ## Description
 
