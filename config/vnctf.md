@@ -3,7 +3,7 @@
 ## Event Details 赛事信息
 
 - **Date 比赛日期:** 2025-02-08 10:00 - 2025-02-09 10:00
-- **Participants 参与人数:** Nearly 1000 participants
+- **Participants 参与人数:** Nearly 1000 participants 近 1000 人参赛
 - **Type 类型:** Individual 个人赛
 - **Organizer 主办方:** V&N Team
 - **WriteUp Download 下载WriteUp:** [By OneDrive](https://bitf1a5h-my.sharepoint.com/:b:/g/personal/ziantt_ziantt_top/EaoZk2ULCg5EuxeKjIfA2IkBSVFlAzdnWqgBbEnJMAWZpw?e=MgKxJa)
@@ -36,15 +36,18 @@ The event is organized by the V&N team, focusing on moderate difficulty and prog
 - 5 BR
 - 6 PuH4ck3rX :vn:
 - 7 foxdog
+- 8 fu11ptr
+- 8 Ynna-Chan
+- 8 殇陌科技
 
 ### Web
 
 - :honor-r1: No0♭
 - :honor-r2: baozongwi
-- :honor-r3: j4m13d
+- :honor-r2: j4m13d
 - 4 hentai
-- 5 gxngxngxn
-- 6 acsducbhiajsd
+- 4 gxngxngxn
+- 4 acsducbhiajsd
 - 7 flykai
 - 8 LSE
 - 9 asdf
@@ -55,12 +58,12 @@ The event is organized by the V&N team, focusing on moderate difficulty and prog
 - :honor-r1: Aqua Cat
 - :honor-r2: Astrageldon
 - :honor-r3: Takagi
-- 4 WuYan
-- 5 JnamerZ
-- 6 NO_MYPCCC
-- 7 Naby
-- 8 rota
-- 9 miruku
+- :honor-r3: WuYan
+- :honor-r3: JnamerZ
+- :honor-r3: NO_MYPCCC
+- :honor-r3: Naby
+- :honor-r3: rota
+- :honor-r3: miruku
 - 10 Culprit
 
 ### Pwn
@@ -83,3 +86,8 @@ The event is organized by the V&N team, focusing on moderate difficulty and prog
 - :honor-r3: carbofish
 - 4 Je2em1ah :vn:
 - 5 Britney :vn:
+- 6 XXerlock
+- 6 oxh
+- 6 Liv :vn:
+- 6 moshui
+- 6 czczc
