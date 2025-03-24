@@ -19,7 +19,7 @@ The event is organized by the V&N team, focusing on moderate difficulty and prog
 - :honor-r1: Aqua Cat
 - :honor-r2: R3gr3t
 - :honor-r3: dumi
-- 4 fullp7r
+- 4 fu11p7r
 - 5 Astrageldon
 - 6 hentai
 - 7 baozongwi
