@@ -12,6 +12,8 @@ Default link open target is `_blank`. Add `~` before the link to open it in the 
 
 ## 2025
 
+XCTF 分站赛 ACTF 2025 第 4 名
+
 XCTF 分站赛 TPCTF 2025 第 10 名
 
 阿里云CTF 2025 第 13 名
