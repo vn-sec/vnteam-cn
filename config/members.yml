@@ -264,13 +264,24 @@ content:
     tags: Pwn
     description: "Fight, protect wings"
     link: https://puh4ck3rx.github.io/
+
   - name:  Liv
     avatar: https://q1.qlogo.cn/g?b=qq&nk=1319923129&s=160
     tags: Reverse
     description: Re and fun
     link: https://tkazer.github.io/
+
   - name: q1uf3ng
     avatar: https://q1.qlogo.cn/g?b=qq&nk=2160789185&s=160
     tags: Web
     description: 幻想着自由的生活，如夏花般绚烂的诱惑
     link: https://x.com/q1uf3ng
+
+  - name: lianjin
+    avatar: https://lianjinlll.cn/images/profilePicture.jpg
+    description: hell0_w0r1d
+    tags: Crypto
+    link: https://lianjinlll.cn
+
+
+
