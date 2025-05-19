@@ -12,5 +12,4 @@ page:
 footer:
   -
     - Copyright (c) [V&N Team](https://github.com/vn-sec)
-    - CDN Hosted on [LightXi](https://www.lightxi.com/)
-  - '[蜀ICP备2024116417号-1](http://beian.miit.gov.cn/)'
+    - CDN and Security by  [CloudFlare](https://www.cloudflare.com/)
