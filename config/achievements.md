@@ -20,6 +20,8 @@ XCTF 分站赛 TPCTF 2025 第 10 名
 
 XCTF 分站赛 SUCTF 2025 第 17 名
 
+XCTF 分站赛 L3HCTF 2025 第 6 名
+
 ## 2024
 
 XCTF 分站赛 SCTF 2024 第 17 名
