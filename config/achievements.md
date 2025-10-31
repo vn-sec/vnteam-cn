@@ -12,6 +12,8 @@ Default link open target is `_blank`. Add `~` before the link to open it in the 
 
 ## 2025
 
+XCTF Final Live Solo 二等奖
+
 XCTF 分站赛 ACTF 2025 第 4 名
 
 XCTF 分站赛 TPCTF 2025 第 10 名
