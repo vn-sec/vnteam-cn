@@ -166,7 +166,7 @@ content:
     tags: Reverse
     description: "半吊子 RE 人"
     link: https://lancerorz.top
-    status: active
+    status: former
 
   - name: JJKK
     avatar: https://q1.qlogo.cn/g?b=qq&nk=2311834720&s=160
@@ -272,13 +272,6 @@ content:
     tags: Misc
     description: "广告位招租"
     link: https://c3ngh.top/
-    status: active
-
-  - name: Shu_sHu
-    avatar: https://avatars.githubusercontent.com/u/152017172?s=400&u=b101466ffe9441dc6bea6802f394c3bcfb75dcb0&v=4
-    tags: Web
-    description: "This power… I cannot control."
-    link: https://mysx.github.io/
     status: active
 
   - name: Inkey
