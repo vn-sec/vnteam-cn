@@ -35,12 +35,6 @@ content:
     link: https://c-lby.top
     status: active
 
-  - name: Chimedal
-    avatar: https://pica.zhimg.com/80/v2-b952a99e6919cf6f56ad4d493517fe3c_1440w.jpeg?source=d16d100b
-    tags: Web
-    description: "Just for fun!"
-    link: https://Chimedal.github.io
-    status: active
 
   - name: Aecous
     avatar: https://q1.qlogo.cn/g?b=qq&nk=2894248907&s=160
@@ -54,7 +48,7 @@ content:
     tags: Reverse
     description: "Meow? meow meow"
     link: https://pangbai.work
-    status: active
+    status: former
 
   - name: CH13hh
     avatar: https://q1.qlogo.cn/g?b=qq&nk=2804894416&s=160
@@ -117,35 +111,28 @@ content:
     tags: Web
     description: "一个喜欢玩儿音游的似宅"
     link: https://g01den1.github.io/
-    status: active
-
-  - name: f1ngy3
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=2993669760&s=160
-    tags: Reverse
-    description: "古希腊掌管睡觉の神"
-    # link:
-    status: active
+    status: former
 
   - name: 3cly
     avatar: https://q1.qlogo.cn/g?b=qq&nk=987623364&s=160
     tags: Reverse
     description: "佛系逆向菜狗"
     link: https://3cly.github.io
-    status: active
+    status: former
 
   - name: kw17
     avatar: https://c.img.dasctf.com/LightPicture/2024/08/cb27e0ee564ba6ac.jpg
     tags: Reverse
     description: "其实我的本体，可能是一只会阿巴阿巴的卡皮巴拉"
     # link:
-    status: active
+    status: former
 
   - name: korey0sh1
     avatar: https://cdn.jsdelivr.net/gh/korey0sh1/clouding@master/data/b_e471dd030d1baa14d30360280e09e32a.jpg
     tags: Pwn
     description: "试图学会 Web 的屑 korey"
     link: https://korey0sh1.fun
-    status: active
+    status: former
 
   - name: LiBr
     avatar: https://gravatar.loli.net/avatar/27c24bc48abf694631bb15836511d135?s=200&d=mp&r=g
@@ -154,12 +141,6 @@ content:
     link: https://nvme0n1p.dev
     status: active
 
-  - name: WAHAHA
-    avatar: https://gngtwhh.space/img/avatar.jpg
-    tags: Reverse
-    description: "一个爱折腾的蒟蒻"
-    link: https://gngtwhh.github.io/
-    status: active
 
   - name: l4n
     avatar: https://q1.qlogo.cn/g?b=qq&nk=862757556&s=160
@@ -168,26 +149,20 @@ content:
     link: https://lancerorz.top
     status: former
 
-  - name: JJKK
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=2311834720&s=160
-    tags: Reverse
-    description: "CTF RE players, determined to become a binary player."
-    # link:
-    status: active
 
   - name: 柚子
     avatar: https://unk-blog-image.oss-cn-shenzhen.aliyuncs.com/youzi.jpg
     tags: Crypto
     description: "因为热爱，所以长远"
     # link:
-    status: active
+    status: former
 
   - name: N1gh7ma12e
     avatar: https://q1.qlogo.cn/g?b=qq&nk=1051667762&s=160
     tags: Crypto
     description: "密码小菜鸡一枚 QAQ"
     link: http://n1gh7ma12e.cn/
-    status: active
+    status: former
 
   - name: Z1d10t
     avatar: https://q1.qlogo.cn/g?b=qq&nk=2081684790&s=160
@@ -210,19 +185,6 @@ content:
     link: https://xianyuuuan.space
     status: active
 
-  - name: wd2711
-    avatar: https://avatars.githubusercontent.com/u/88755653?s=40&v=4
-    tags: Reverse
-    description: "爱玩的菜鸡"
-    link: https://wd-2711.tech
-    status: active
-
-  - name: Hur1k
-    avatar: https://hur1k.github.io/img/avatar.jpg
-    tags: Reverse
-    description: "404 Error"
-    link: https://hur1k.github.io/
-    status: active
 
   - name: V3g3t4ble
     avatar: https://blog-1258572842.cos.ap-nanjing.myqcloud.com/obsidian/202408141510512.jpeg
@@ -236,21 +198,6 @@ content:
     tags: Pwn
     description: "分清大事和小事"
     link: https://yuque.com/xswlhhh/ctf
-    status: active
-
-  - name: 鱿鱼
-    avatar: https://unk-blog-image.oss-cn-shenzhen.aliyuncs.com/the.jpg
-    tags: Web
-    description: "我是鱿鱼师傅，欢迎各位师傅和我扩列带带小弟"
-    link: https://www.cnblogs.com/dleyi
-    status: active
-
-
-  - name: M4nd3l3y3v
-    avatar: https://unk-blog-image.oss-cn-shenzhen.aliyuncs.com/abaed3e2a8d029d327e1cd2a12e73a8c.png
-    tags: [ Misc, Web ]
-    description: "Go and Hack,make my day!"
-    # link:
     status: active
 
   - name: Mash1r0
@@ -292,7 +239,7 @@ content:
     tags: Web
     description: "Fly, broken wings"
     link: https://lamentxu.top/
-    status: active
+    status: former
 
   - name: PuH4ck3rX
     avatar: https://puh4ck3rx.github.io/images/avatar.png
@@ -313,7 +260,7 @@ content:
     tags: Web
     description: 幻想着自由的生活，如夏花般绚烂的诱惑
     link: https://x.com/q1uf3ng
-    status: active
+    status: former
 
   - name: lianjin
     avatar: https://lianjinlll.cn/images/profilePicture.jpg
