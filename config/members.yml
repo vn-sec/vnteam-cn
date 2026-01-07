@@ -1,60 +1,242 @@
-title: Members
+title: Active Members
 subtitle: Want to join us? [Click here](~/join).
 
 content:
-  # - name:        # name (required)
-  #   avatar:      # link for avatar image
-  #   tags: Web    # array or string
-  #   description: # markdown supported
-  #   link:        # link to personal website or blog
-
-  - name: unknown
-    avatar: https://unk-blog-image.oss-cn-shenzhen.aliyuncs.com/unknown.jpg
-    tags: [ Leader, Web ]
-    description: "真正的大师，永远都怀着一颗学徒的心"
-    link: https://unk.org.cn
+  - name: Hurkin
+    avatar: https://www.hurkin.top/wp-admin/images/hand.jpg
+    tags: [ Leader, Misc ]
+    description: "迎着阳光盛大逃亡"
+    link: https://www.hurkin.top
     status: active
 
-  - name: Qanux
-    avatar: https://avatars.githubusercontent.com/u/126745796
+  - name: 玫幽倩
+    avatar: https://mei-you-qian.github.io/img/fufu.png
+    tags: Misc
+    description: "愿我们都能越走越远"
+    link: https://mei-you-qian.github.io
+    status: active
+
+  - name: Infernity
+    avatar: http://q1.qlogo.cn/g?b=qq&nk=1366400792&s=160
+    tags: Web
+    description: "愿有人陪你颠沛流离。"
+    link: https://infernity.top
+    status: active
+
+  - name: lianjin
+    avatar: https://lianjinlll.cn/images/profilePicture.jpg
+    tags: Crypto
+    description: "hello_world O.o"
+    link: https://lianjinlll.cn/
+    status: active
+
+  - name: Zer0
+    avatar: https://kingofyou.oss-cn-beijing.aliyuncs.com/D:%5CBolg%5Chexo-blog%5Csource%5C_posts%5C%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0202412132116202.jpg
+    tags: Web
+    description: "Suddenly,I turned my head,only to see the person standing in the dim light."
+    link: https://eznp.github.io/
+    status: active
+
+  - name: Himekawa
+    avatar: https://himekawa.top/img/himekawa.jpg
+    tags: Misc
+    description: "Never Settle"
+    link: https://himekawa.top/
+    status: active
+
+
+  - name: xiaomao
+    avatar: https://xiaomao.top/images/avatar.jpg
+    tags: Crypto
+    description: "if u love crypto,i love u."
+    link: xiaomao.top
+    status: active
+
+  - name: Findkey
+    avatar: https://find-key.github.io/images/head_image.jpg
     tags: Pwn
-    description: "勇往直前是我唯一的退路👊"
-    link: https://9anux.org
-    status: former
+    description: "learning and improving."
+    link: https://find-key.github.io/
+    status: active
+
+  - name: A1ic3
+    avatar: https://alic3-myth.oss-cn-hangzhou.aliyuncs.com/img/avator.jpg
+    tags: Crypto
+    description: "Every adventure requires a first step"
+    link: https://alic3-myth.github.io
+    status: active
+
+  - name: Yolo
+    avatar: https://yo1o.top/images/avatars/Yolo.jpg
+    tags: Misc
+    description: "You only live once!"
+    link: https://yo1o.top
+    status: active
+
+  - name: Eleven.
+    avatar: https://imconfident11.github.io/img/avatar.jpg
+    tags: Reverse
+    description: "Misc 是梦开始的地方，最后走上了逆向的不归路"
+    link: https://imconfident11.github.io/
+    status: active
+
+  - name: Fa1lSnow
+    tags: Pwn
+    description: "The more I learn, the more I realize how much I don’t know."
+    link: https://blog.fa1lsnow.com/
+    status: active
+
+  - name: AsaL1n
+    avatar: https://asal1n.github.io/img/head.jpg
+    tags: Web
+    description: "春风若有怜花意，可许英雄再少年"
+    link: https://asal1n.github.io
+    status: active
+
+  - name: Fa1lSnow
+    avatar: https://blog.fa1lsnow.com/uploads/avatar.jpg
+    tags: Pwn
+    description: "The more I learn, the more I realize how much I don’t know."
+    link: https://blog.fa1lsnow.com/
+    status: active
+
+  - name: 温婳霂
+    avatar: https://somokel.oss-cn-hangzhou.aliyuncs.com/Avatar/samantha251217.png
+    tags: Misc
+    description: "春祺夏安，秋绥冬宁。"
+    link: https://somokel.github.io
+    status: active
+
+  - name: Mitunlny
+    avatar: https://mitunlny.oss-cn-beijing.aliyuncs.com/MY.jpg
+    tags: Misc
+    description: "认真过好每一天！(=^▽^=)"
+    link: https://czxh.top
+    status: active
+
+  - name: yuhua
+    avatar: https://yuhuamiao.cn/img/Cache_-29144da1c4f2ed7c.jpg
+    tags: Web
+    description: "吃干饭的来了"
+    link: https://yuhuamiao.cn/
+    status: active
+
+  - name: t0mcater
+    avatar: https://pic.cnblogs.com/avatar/3660992/20251209101018.png
+    tags: Web
+    description: "好想学java"
+    link: https://www.cnblogs.com/t0mcater
+    status: active
+
+  - name: didongji91
+    tags: Web
+    description: ""
+    link: "https://unk-blog-image.oss-cn-shenzhen.aliyuncs.com/didongji91.jpg"
+    status: active
+
+  - name: loo
+    avatar: https://ibb.co/C30vVv7N
+    tags: Pwn
+    description: "...?"
+    link: 无blog
+    status: active
+
+  - name: Pr0x1ma
+    avatar: 124.221.168.69/pics/avtor.png
+    tags: Web
+    description: "进一寸有一寸的欢喜"
+    link: www.pr0x1ma.top
+    status: active
 
   - name: 0xA1pha
-    avatar: https://neuqcsa.cn/static/images/ico/0xA1pha.png
+    avatar: https://www.neuqcsa.cn/static/images/ico/0xA1pha.png
     tags: Reverse
-    description: "一个 23 级的菜菜逆向手"
+    description: "always noob"
+    link: www.0xa.tech
     status: active
 
-  - name: C_LBY
-    avatar: https://blog-1258572842.cos.ap-nanjing.myqcloud.com/obsidian/202408142342917.png
-    tags: Pwn
-    description: "我们联合，形成两面包夹芝士！"
-    link: https://c-lby.top
+  - name: Y&Y
+    avatar: http://q.qlogo.cn/headimg_dl?dst_uin=2060824185&spec=640&img_type=jpg
+    tags: Reverse
+    description: "Ciallo～(∠・ω< )⌒★"
+    link: https://singlehorn.github.io/
     status: active
 
+  - name: Zion_Cat
+    avatar: https://zioncat.cn/wp-content/uploads/2025/12/han.jpg
+    tags: Misc
+    description: "深山踏红叶，耳畔闻鹿鸣"
+    link: https://zioncat.cn/
+    status: active
 
-  - name: Aecous
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=2894248907&s=160
+  - name: Sauy
+    avatar: https://sauy.top/images/sauy.jpg
     tags: Web
-    description: "Prove yourself"
-    link: https://aecous.github.io/
+    description: "一位正在成长的 web 苦手"
+    link: http://sauy.top
     status: active
 
-  - name: PangBai
-    avatar: https://thirdqq.qlogo.cn/g?b=oidb&k=vE3usuUH5ZeNhREOjiaq8tQ&s=640&t=1606030712
+  - name: Jayuyu
+    avatar: https://c-ssl.duitang.com/uploads/blog/202008/25/20200825165219_ejyne.jpeg
     tags: Reverse
-    description: "Meow? meow meow"
-    link: https://pangbai.work
-    status: former
+    description: "摸鱼逆向选手"
+    link: https://jayuyu.github.io/
+    status: active
 
-  - name: CH13hh
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=2804894416&s=160
+  - name: xinns
+    avatar: https://graph.baidu.com/view/similardetailnew?card_key=similar&carousel=1&contsign=&curAlbum=0&entrance=GENERAL&f=general&image=https%3A%2F%2Fmms2.baidu.com%2Fit%2Fu%3D2313378766,2847339137%26fm%3D253%26app%3D138%26f%3DJPEG%3Fw%3D800%26h%3D800&index=1&inspire=similar&jumpIndex=1&next=2&page=1&page_size=4&render_type=carousel_all&session_id=4933278800153080330&sign=0116fb3b64f2e47b50c54x1766555995&srcp=crs_simi&wd=%E4%BA%B2%E5%90%BB%E7%BA%A2%E6%97%97%E5%8D%A1%E9%80%9A%E5%A4%B4%E5%83%8F
+    tags: Web
+    description: "一个热爱CTF的weber"
+    link: https://x1nz.com/
+    status: active
+
+  - name: lrhtony
+    avatar: https://cn.gravatar.com/avatar/6d87f459eb35a3ca0a90df17e3d3f880cd24efd730561039638ddd8ad8fdfa74
+    tags: Reverse
+    description: "咸鱼一条"
+    link: https://lrhtony.cn
+    status: active
+
+  - name: YUNiversity
+    avatar: https://raw.githubusercontent.com/AYUNiversity/AYUNiversity.github.io/main/ea00c7fe46b0f76f3fb53b1951dd8134.jpg
+    tags: Web
+    description: "The day is short but the work is much"
+    link: https://ayuniversity.github.io/
+    status: active
+
+  - name: yfor
+    avatar: https://yfor-yfor.github.io/images/avatar.jpg
     tags: Pwn
-    description: "The best way to predict the future is to create it."
-    link: https://ch13hh.github.io/
+    description: "睡觉中……"
+    link: https://yfor-yfor.github.io/
+    status: active
+
+  - name: Sally
+    avatar: https://sally-0000.github.io/images/head.png
+    tags: Pwn
+    description: "一只爱睡觉的pwn手"
+    link: http://sally-0000.github.io/
+    status: active
+
+  - name: Jerem1ah
+    avatar: https://jeremiah.oss-cn-shenzhen.aliyuncs.com/blog/mmexport1725001679921.jpg
+    tags: Reverse
+    description: "423 Locked"
+    link: https://www.j3r3m14h.com.cn/Je2em1ah_blog/
+    status: active
+
+  - name: Pr0x1ma
+    avatar: https://pr0x1ma.top/pics/avtor.png
+    tags: Web
+    description: "进一寸有一寸的欢喜"
+    link: https://pr0x1ma.top
+    status: active
+
+  - name: PuH4ck3rX
+    avatar: https://puh4ck3rx.github.io/images/avatar.png
+    tags: Pwn
+    description: "Fight, protect wings"
+    link: https://puh4ck3rx.github.io/
     status: active
 
   - name: gets
@@ -64,53 +246,24 @@ content:
     link: https://www.getspwn.xyz
     status: active
 
-  - name: ph0ebus
-    avatar: https://c.img.dasctf.com/LightPicture/2024/08/ac126286f0762f42.jpg
-    tags: Web
-    description: "Study On Web Security && Penetration Testing && Java Security, no hack no fun!"
-    link: http://ph0ebus.cn/
-    status: active
-
-  - name: cyi
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=1873287169&s=160
-    tags: Misc
-    description: "梧高凤必至_花香蝶自来"
-    link: https://www.cnblogs.com/xhzccy
-    status: active
-
-  - name: Infernity
-    avatar: http://q1.qlogo.cn/g?b=qq&nk=1366400792&s=160
-    tags: [ Misc, Web ]
-    description: "爱玩恐怖游戏的 Web 苦手"
-    link: https://infernity.top
-    status: active
-
-  - name: yixinBC
-    avatar: https://c.img.dasctf.com/LightPicture/2024/08/c6a64c00f2c066f8.jpg
-    tags: Misc
-    description: "超级无敌巨菜浑水摸鱼手"
-    link: https://blog.buyix.in
-    status: active
-
-  - name: 0xAkyOI
-    avatar: https://blog.akyuu.space/images/avatar.jpg
+  - name: Jerrythepro123
+    description: QWERTY
     tags: Pwn
-    description: "C🤡NST unsigned int i = π;"
-    link: https://blog.akyuu.space/
+    link: https://jerrythepro123.github.io
+    status: active
+
+  - name: Qanux
+    avatar: https://avatars.githubusercontent.com/u/126745796
+    tags: Pwn
+    description: "勇往直前是我唯一的退路👊"
+    link: https://9anux.org
     status: former
 
-  - name: ATRI
-    avatar: https://c.img.dasctf.com/LightPicture/2024/08/ec2102768f9741c8.jpg
+  - name: PangBai
+    avatar: https://thirdqq.qlogo.cn/g?b=oidb&k=vE3usuUH5ZeNhREOjiaq8tQ&s=640&t=1606030712
     tags: Reverse
-    description: "一个摸鱼选手"
-    # link:
-    status: active
-
-  - name: g01den
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=2082045221&s=160
-    tags: Web
-    description: "一个喜欢玩儿音游的似宅"
-    link: https://g01den1.github.io/
+    description: "Meow? meow meow"
+    link: https://pangbai.work
     status: former
 
   - name: 3cly
@@ -120,27 +273,12 @@ content:
     link: https://3cly.github.io
     status: former
 
-  - name: kw17
-    avatar: https://c.img.dasctf.com/LightPicture/2024/08/cb27e0ee564ba6ac.jpg
-    tags: Reverse
-    description: "其实我的本体，可能是一只会阿巴阿巴的卡皮巴拉"
-    # link:
-    status: former
-
   - name: korey0sh1
     avatar: https://cdn.jsdelivr.net/gh/korey0sh1/clouding@master/data/b_e471dd030d1baa14d30360280e09e32a.jpg
     tags: Pwn
     description: "试图学会 Web 的屑 korey"
     link: https://korey0sh1.fun
     status: former
-
-  - name: LiBr
-    avatar: https://gravatar.loli.net/avatar/27c24bc48abf694631bb15836511d135?s=200&d=mp&r=g
-    tags: Misc
-    description: "Nothing here."
-    link: https://nvme0n1p.dev
-    status: active
-
 
   - name: l4n
     avatar: https://q1.qlogo.cn/g?b=qq&nk=862757556&s=160
@@ -149,27 +287,26 @@ content:
     link: https://lancerorz.top
     status: former
 
-
-  - name: 柚子
-    avatar: https://unk-blog-image.oss-cn-shenzhen.aliyuncs.com/youzi.jpg
-    tags: Crypto
-    description: "因为热爱，所以长远"
-    # link:
-    status: former
-
-  - name: N1gh7ma12e
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=1051667762&s=160
-    tags: Crypto
-    description: "密码小菜鸡一枚 QAQ"
-    link: http://n1gh7ma12e.cn/
-    status: former
-
-  - name: Z1d10t
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=2081684790&s=160
+  - name: LamentXU
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=1372449351&s=160
     tags: Web
-    description: "喜欢 Web 安全与渗透"
-    link: https://z1d10t.fun/
-    status: active
+    description: "Fly, broken wings"
+    link: https://lamentxu.top/
+    status: former
+
+  - name:  Liv
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=1319923129&s=160
+    tags: Reverse
+    description: "Re and fun"
+    link: https://tkazer.github.io/
+    status: former
+
+  - name: q1uf3ng
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=2160789185&s=160
+    tags: Web
+    description: "幻想着自由的生活，如夏花般绚烂的诱惑"
+    link: https://x.com/q1uf3ng
+    status: former
 
   - name: sekiro
     avatar: https://q1.qlogo.cn/g?b=qq&nk=3331308771&s=160
@@ -177,49 +314,6 @@ content:
     description: "Know a little pwn?"
     link: https://www.sekiro.love
     status: former
-
-  - name: xianyuuuan
-    avatar: https://s2.loli.net/2024/08/14/I25gQWbAmNTEHce.png
-    tags: Reverse
-    description: "有意思的优质咸鱼"
-    link: https://xianyuuuan.space
-    status: active
-
-
-  - name: V3g3t4ble
-    avatar: https://blog-1258572842.cos.ap-nanjing.myqcloud.com/obsidian/202408141510512.jpeg
-    tags: Web
-    description: "去码头整点 flag"
-    link: https://www.imsb114514.cn/
-    status: active
-
-  - name: xswlhhh
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=2991796382&s=160
-    tags: Pwn
-    description: "分清大事和小事"
-    link: https://yuque.com/xswlhhh/ctf
-    status: active
-
-  - name: Mash1r0
-    avatar: https://bu.dusays.com/2024/07/08/668b937ccb984.jpg
-    tags: Web
-    description: "你想要变成什么颜色？"
-    link: https://mashiro726.github.io/
-    status: active
-
-  - name: AsaL1n
-    avatar: https://asal1n.github.io/img/head.jpg
-    tags: Web
-    description: "why we need that?"
-    link: https://asal1n.github.io/
-    status: active
-
-  - name: C3ngH
-    avatar: https://c3ngh-blog.oss-cn-hangzhou.aliyuncs.com/img/C3ngH.jpg
-    tags: Misc
-    description: "广告位招租"
-    link: https://c3ngh.top/
-    status: active
 
   - name: Inkey
     avatar: https://avatars.githubusercontent.com/u/39005478?s=800
@@ -234,46 +328,9 @@ content:
     description: "Trailblaze Tomorrow"
     status: former
 
-  - name: LamentXU
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=1372449351&s=160
-    tags: Web
-    description: "Fly, broken wings"
-    link: https://lamentxu.top/
+  - name: unknown
+    avatar: https://unk-blog-image.oss-cn-shenzhen.aliyuncs.com/unknown.jpg
+    tags: [ Leader, Web ]
+    description: "真正的大师，永远都怀着一颗学徒的心"
+    link: https://unk.org.cn
     status: former
-
-  - name: PuH4ck3rX
-    avatar: https://puh4ck3rx.github.io/images/avatar.png
-    tags: Pwn
-    description: "Fight, protect wings"
-    link: https://puh4ck3rx.github.io/
-    status: active
-
-  - name:  Liv
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=1319923129&s=160
-    tags: Reverse
-    description: Re and fun
-    link: https://tkazer.github.io/
-    status: former
-
-  - name: q1uf3ng
-    avatar: https://q1.qlogo.cn/g?b=qq&nk=2160789185&s=160
-    tags: Web
-    description: 幻想着自由的生活，如夏花般绚烂的诱惑
-    link: https://x.com/q1uf3ng
-    status: former
-
-  - name: lianjin
-    avatar: https://lianjinlll.cn/images/profilePicture.jpg
-    description: hell0_w0r1d
-    tags: Crypto
-    link: https://lianjinlll.cn
-    status: active
-
-  - name: Jerrythepro123
-    description: QWERTY
-    tags: Pwn
-    link: https://jerrythepro123.github.io
-    status: active
-
-
-
